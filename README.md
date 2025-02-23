@@ -52,6 +52,9 @@ The model predicts the following emotions:
 - Enhance emotion recognition accuracy with a more complex CNN model.
 - Optimize YOLO inference speed for real-time performance.
 
+## Output
+![Detection Result](output.jog)
+
 ## License
 This project is open-source and available under the MIT License.
 
