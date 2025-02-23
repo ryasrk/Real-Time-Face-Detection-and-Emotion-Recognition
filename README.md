@@ -8,8 +8,12 @@ This project implements a real-time face detection and emotion recognition syste
 - **Emotion Recognition**: Uses a CNN model to classify emotions into categories such as happy, sad, angry, and more.
 - **Template-Based Face Tracking**: Enhances tracking efficiency by using template matching between detection frames.
 - **Live Video Processing**: Processes video input from the webcam and overlays detected faces and predicted emotions.
-
+  
+## Dataset
+- SCUT-FBP5500
+- FER2014
 ## Requirements
+
 Make sure you have the following dependencies installed before running the program:
 
 ```bash
