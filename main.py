@@ -4,7 +4,7 @@ from ultralytics import YOLO
 from tensorflow.keras.models import load_model
 
 # Load models.
-yolo_model = YOLO("last.pt")
+yolo_model = YOLO("face.pt")
 cnn_model = load_model("emotions.h5")
 class_labels = {0: "angry", 1: "disgust", 2: "fear", 3: "happy", 4: "neutral", 5: "sad", 6: "suprise"}
 
