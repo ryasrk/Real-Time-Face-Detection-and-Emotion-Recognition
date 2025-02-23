@@ -11,7 +11,7 @@ This project implements a real-time face detection and emotion recognition syste
   
 ## Dataset
 - SCUT-FBP5500
-- FER2014
+- FER2013
 ## Requirements
 
 Make sure you have the following dependencies installed before running the program:
