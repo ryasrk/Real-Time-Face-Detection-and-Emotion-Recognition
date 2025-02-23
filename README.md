@@ -53,7 +53,7 @@ The model predicts the following emotions:
 - Optimize YOLO inference speed for real-time performance.
 
 ## Output
-![Detection Result](output.jog)
+![Detection Result](output.jpg)
 
 ## License
 This project is open-source and available under the MIT License.
