@@ -18,7 +18,7 @@ pip install opencv-python numpy ultralytics tensorflow keras
 
 ## Model Files
 Ensure you have the required model files in the working directory:
-- `face.pt`: YOLO model for face detection.
+- `face.pt`: YOLO model for face detection.[Open in Google Colab](https://colab.research.google.com/github/ryasrk/Real-Time-Face-Detection-and-Emotion-Recognition/blob/main/Yolov12_Gender_and_Race.ipynb)
 - `emotions.h5`: CNN model for emotion recognition. [Open in Google Colab](https://colab.research.google.com/github/ryasrk/Real-Time-Face-Detection-and-Emotion-Recognition/blob/main/emotion_FER2013_CNN.ipynb)
 
 
